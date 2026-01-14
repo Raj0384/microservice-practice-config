@@ -2,7 +2,7 @@ build:
   version: "1.5"
 
 cards:
-  message: "Welcome to EazyBank cards related webhookstest APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Sandra Smith - Product Owner"
     email: "sandra@eazybank.com"
