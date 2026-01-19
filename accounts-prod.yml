@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related ngrok-test APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}6de745248f85936341b47ba19473d74e7ea8889013f46b0498728e1d91fc48e8bfd92ffa82e4490c4aecd5cc93675b36"
